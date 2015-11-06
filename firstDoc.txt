@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 this is our first sentence. Added by branch2
 I am adding another sentece. 
 This is another one. This was added by branch2
+=======
+this is our first sentence. This was done in branch1
+I am adding another sentece. 
+This ws a new line added by branch1
+>>>>>>> master
